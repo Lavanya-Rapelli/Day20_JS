@@ -52,7 +52,6 @@ function calculateSalesTotals(sales) {
     });
 }
 
-// Example usage:
 var sales = [
     { item: 'PS4 Pro', stock: 3, original: 399.99 },
     { item: 'Xbox One X', stock: 1, original: 499.99, discount: 0.1 },
